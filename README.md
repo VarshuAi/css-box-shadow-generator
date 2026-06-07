@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Design gorgeous CSS drop shadows and copy styling values.
+  name: css-box-shadow-generator version: 1.0 type: Repository author: VarshuAi description: >   Design gorgeous CSS drop shadows and copy styling values. primary_tech: CSS
 primary_tech: CSS
 ```
 
